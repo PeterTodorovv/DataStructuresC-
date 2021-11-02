@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.exe
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.deps.json
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.json
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.dev.json
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.dll
+C:\Users\peter\source\repos\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.pdb
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfo.cs
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.dll
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.pdb
+C:\Users\peter\source\repos\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.genruntimeconfig.cache
